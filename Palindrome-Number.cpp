@@ -39,7 +39,6 @@ Follow up: Could you solve it without converting the integer to a string?
 class Solution {
 public:
     bool isPalindrome(int x) {
-        
         if(x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
