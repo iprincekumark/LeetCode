@@ -18,6 +18,7 @@
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](First-Bad-Version.cpp)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C++](Fibonacci-Number.cpp)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++](Binary-Search.cpp)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](Squares-of-a-Sorted-Array.cpp)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [C++](Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)| [C++](Running-Sum-of-1d-Array.cpp)|Easy|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| [C++](Concatenation-of-Array.cpp)|Easy|
