@@ -12,6 +12,7 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](Sqrt(x).cpp)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](Merge-Sorted-Array.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](Best-Time-to-Buy-and-Sell-Stock.cpp)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](Single-Number.cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](Linked-List-Cycle.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](Reverse-Linked-List.cpp)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](Contains-Duplicate.cpp)|Easy|
