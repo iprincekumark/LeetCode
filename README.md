@@ -1,5 +1,7 @@
-# LeetCode
-(Notes: "🔒" means you need to subscribe my youtube channel [ERiCK](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w) )
+# LeetCode  
+<img src="https://media.giphy.com/media/hTsKZJM9wMplEWFcla/giphy.gif" width="150px">
+
+## (Notes: "🔒" means you need to subscribe my youtube channel [ERiCK](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w) ) <img src="https://media.giphy.com/media/Uv2o6s9vqd6F6jisSr/giphy.gif" width="25px"> 
 
 
 | # | Title | Solution | Difficulty |
